@@ -18,6 +18,7 @@ and after that is completed run npm start.
     
 ## Usage
 You can use this to write code snippets and save them.
+[Live Link](https://fathomless-hollows-53682.herokuapp.com/)
 
 ## Contribution
 there are no guidelines right now.
